@@ -1,6 +1,6 @@
 {
   "name": "@jamen/html-to-hyperapp",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Parse HTML into JSON that resembles HyperApp nodes.",
   "author": "Jamen Marz <jamenmarz@gmail.com>",
   "main": "lib/html-to-hyperapp.js",
