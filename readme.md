@@ -6,13 +6,13 @@ Convert HTML to Hyperapp JSON
 ## Install
 
 ```sh
-npm i html-to-hyperapp
+npm i @jamen/html-to-hyperapp
 ```
 
 Or use the CLI utility:
 
 ```sh
-npx html-to-hyperapp input.html output.json
+npx @jamen/html-to-hyperapp input.html output.json
 ```
 
 ## Usage
